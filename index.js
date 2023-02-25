@@ -16,40 +16,40 @@ else{
 /**********dice1 ***********/
 
 if(randomNumber1 === 1){
-    document.querySelector(".dice .img1").setAttribute("src","images/dice1.png");
+    document.querySelector(".dice .img1").setAttribute("src","dice1.png");
 }
 else if(randomNumber1 === 2){
-    document.querySelector(".dice .img1").setAttribute("src","images/dice2.png");    
+    document.querySelector(".dice .img1").setAttribute("src","dice2.png");    
 }
 else if(randomNumber1 === 3){
-    document.querySelector(".dice .img1").setAttribute("src","images/dice3.png");    
+    document.querySelector(".dice .img1").setAttribute("src","dice3.png");    
 }
 else if(randomNumber1 === 4){
-    document.querySelector(".dice .img1").setAttribute("src","images/dice4.png");    
+    document.querySelector(".dice .img1").setAttribute("src","dice4.png");    
 }
 else if(randomNumber1 === 5){
-    document.querySelector(".dice .img1").setAttribute("src","images/dice5.png");    
+    document.querySelector(".dice .img1").setAttribute("src","dice5.png");    
 }
 else if(randomNumber1 === 6){
-    document.querySelector(".dice .img1").setAttribute("src","images/dice6.png");    
+    document.querySelector(".dice .img1").setAttribute("src","dice6.png");    
 }
 
 /***************dice 2 ***********/
 if(randomNumber2 === 1){
-    document.querySelector(".dice .img2").setAttribute("src","images/dice1.png");
+    document.querySelector(".dice .img2").setAttribute("src","dice1.png");
 }
 else if(randomNumber2 === 2){
-    document.querySelector(".dice .img2").setAttribute("src","images/dice2.png");    
+    document.querySelector(".dice .img2").setAttribute("src","dice2.png");    
 }
 else if(randomNumber2 === 3){
-    document.querySelector(".dice .img2").setAttribute("src","images/dice3.png");    
+    document.querySelector(".dice .img2").setAttribute("src","dice3.png");    
 }
 else if(randomNumber2 === 4){
-    document.querySelector(".dice .img2").setAttribute("src","images/dice4.png");    
+    document.querySelector(".dice .img2").setAttribute("src","dice4.png");    
 }
 else if(randomNumber2 === 5){
-    document.querySelector(".dice .img2").setAttribute("src","images/dice5.png");    
+    document.querySelector(".dice .img2").setAttribute("src","dice5.png");    
 }
 else if(randomNumber2 === 6){
-    document.querySelector(".dice .img2").setAttribute("src","images/dice6.png");    
+    document.querySelector(".dice .img2").setAttribute("src","dice6.png");    
 }
